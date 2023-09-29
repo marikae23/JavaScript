@@ -4,11 +4,11 @@
 <html>
 <body>
 
-<h2>What Can JavaScript Do?</h2>
+<h2>Look what I can do!</h2>
 
-<p id="demo">JavaScript can change HTML content.</p>
+<p id="demo">I can change HTML content. ^ㅁ^</p>
 
-<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+<button type="button" onclick='document.getElementById("demo").innerHTML = "It changed! Its really easy" '>Click Me!</button>
 
 </body>
 </html>
