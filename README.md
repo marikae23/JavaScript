@@ -4,7 +4,7 @@ JavaScript is the world's most popular programming language. It is used for both
 
 <details>
 
-<summary>Overview</summary>
+<summary>Overview, Programs & Lines</summary>
 
 ## Basic Program
 You will learn how to develop your first JS script, is easy and enjoyable. However, there are caveats and difficulties everywhere, so we will also look at some common programming errors and how to avoid them.
