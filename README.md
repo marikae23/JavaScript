@@ -12,5 +12,6 @@ You will learn how to develop your first JS script, is easy and enjoyable. Howev
 ```ruby
 console.log("Hello, World!");
 ```
+**Explanation!** Here `console.log` is a function & `"Hello, World!"` is a string.
 
 </details>
