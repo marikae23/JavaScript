@@ -14,4 +14,11 @@ console.log("Hello, World!");
 ```
 **Explanation!** Here `console.log` is a function & `"Hello, World!"` is a string.
 
+> [!NOTE]
+>  ㅠ ㅠ If you want to include quotes in a string, there are two ways to avoid confusion and successfully print them:
+>```ruby
+> console.log('Yes, I\'m ready to learn JS.');
+>```
+
+
 </details>
