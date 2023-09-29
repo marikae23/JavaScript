@@ -20,5 +20,28 @@ console.log("Hello, World!");
 > console.log('Yes, I\'m ready to learn JS.');
 >```
 
+## Multi-line Programs
+The following code prints exactly three lines of text, each from a new line:
 
+```ruby
+console.log("I");
+console.log("know");
+console.log("JavaScript");
+```
+
+**Easiest way** to do is using the symbol \n:
+```ruby
+console.log("I\nknow\nJavaScript");
+```
+
+## Empty Line
+The `console.log` function also allows you to output an empty line without any information in it:
+
+```ruby
+console.log("I");
+console.log();
+console.log("know");
+console.log();
+console.log("JavaScript");
+```
 </details>
